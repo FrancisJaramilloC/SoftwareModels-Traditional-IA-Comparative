@@ -9,15 +9,3 @@ Actividad de Software Engineering Models para identificar y comparar herramienta
 **Universidad / Carrera:** Universidad Nacional de Loja / Ingeniería en Computación  
 **Fecha:** 4 de octubre de 2026
 
-## Publicación
-
-1. Colocar `index.html` y este `README.md` en la raíz del repositorio.
-2. En Settings → Pages, elegir Deploy from a branch, la rama correspondiente y `/ (root)`.
-3. Reemplazar `[URL]` por el enlace publicado y comprobar la página desde esa URL.
-
-No requiere servidor de aplicación, instalación de dependencias ni compilación. El CSS y JavaScript están integrados; Google Fonts es la única dependencia externa. Las referencias oficiales son enlaces de consulta, no recursos necesarios para ejecutar la página.
-
-## Antes de entregar
-
-- Verificar las tarifas de Jira, Lucidchart y Mermaid AI, los límites de las funciones de IA y actualizar precios y fecha si corresponde.
-- Revisar navegación, vista móvil e impresión como PDF.
